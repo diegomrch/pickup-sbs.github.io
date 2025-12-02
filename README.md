@@ -14,3 +14,7 @@ Solusi yang Diharapkan
 --------------------
 Menghubungkan data yang tersedia pada google sheet dengan geolokasi / peta sehingga dapat memudahkan Supervisor terkait untuk melakukan rekayasa rute jika ada penambahan maupun perubahan sementara yang diharapkan dapat lebih efisien.
 
+Milestone
+--------------------
+1. Melengkapi data longlat pada data pickup yang sudah ada
+2. Menghubungkan data pada Google Sheet dengan API Google Maps
